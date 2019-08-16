@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tỷ giá hối đoái</string>
+    <string name="textmuaTM1">Mua TM:</string>
+    <string name="textmuaCK">Mua CK:</string>
+    <string name="txtmuaTM" />
+    <string name="txtmuaCK1" />
+    <string name="txtmuaCK" />
+    <string name="muaTM">Mua TM:</string>
+    <string name="muaCK">Mua CK:</string>
+    <string name="giaMuaCK1" />
+    <string name="giaMuaCK" />
+    <string name="banTM">Bán TM:</string>
+    <string name="banCK">Bán CK:</string>
+    <string name="giaBanTM" />
+    <string name="giaBanCK" />
+    <string name="country">EU</string>
+</resources>
